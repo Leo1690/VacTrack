@@ -4,7 +4,7 @@
 
 ### Live Demo:
 
-[Check the live demo here](vacuumatjacobs.appspot.com)
+[Check the live demo here](https://vacuumatjacobs.appspot.com)
 ## Inspiration
 Climbing six floors of stairs every week to get a vacuum cleaner from our college office always made us wonder if cleaning our room really took precedence over our comfort? Still going through all this effort just to find out about someone else already borrowing it inspired us to take this initiative.
 ## What it does
