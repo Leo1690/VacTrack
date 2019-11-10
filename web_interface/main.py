@@ -44,3 +44,6 @@ def put_data():
     signal = (str)(signal)
     dbx.files_upload(bytes(signal, encoding="ascii"), FILE_TO, mode=dropbox.files.WriteMode.overwrite)
     return 'OK'
+
+if __name__ == "__main__":
+    APP.run(debug=True)
